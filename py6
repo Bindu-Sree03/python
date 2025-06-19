@@ -1,0 +1,9 @@
+n=input()
+n=int(n)
+print(n>25)
+n=str(n)
+b=n[0]
+c=n[-1]
+b=int(b)
+c=int(c)
+print(b>c)
